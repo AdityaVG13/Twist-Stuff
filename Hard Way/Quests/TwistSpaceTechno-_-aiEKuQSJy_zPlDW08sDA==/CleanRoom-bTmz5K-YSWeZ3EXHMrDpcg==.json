@@ -33,7 +33,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]The Twist Cleanroom[/quest]\n\n§6Machine Type: §aCleanroom§r\n\nDoes not need maintainence or power. Both hatches need to be placed, but they do not require any setup. \n\nCan be any size up to §963x64x63§r.\n\n[warn]Power Pass must be enabled for Twist CleanRoom to work![/warn]"
+      "desc:8": "[quest]The Twist Cleanroom[/quest]\n\n§6Machine Type: §aCleanroom§r\n\nDoes not need maintenance or power. Both hatches need to be placed, but they do not require any setup. \n\nCan be any size up to §963x64x63§r.\n\nTypes of Glass that can be used as a percentage of blocks in structure:\n\n§6Managlass§r: §c50%§r\n§6Alfglass§r: §c50%§r\n§6Borosilicate Glass Block§r: §c50%§r\n§6Warded Glass§r: §c50%§r\n§6Reinforced Glass: §c5%§r\n\n§6Open Blocks Elevator§r: Exactly §c1§r\n§6Travel Anchor§r: Exactly §c1§r\n\n[warn]Power Pass must be enabled for Twist CleanRoom to work![/warn]"
     }
   },
   "tasks:9": {

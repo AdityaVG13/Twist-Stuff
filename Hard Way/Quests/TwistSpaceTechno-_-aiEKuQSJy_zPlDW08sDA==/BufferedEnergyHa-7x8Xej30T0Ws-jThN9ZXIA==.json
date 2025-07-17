@@ -29,7 +29,7 @@
       "lockedProgress:1": 0,
       "autoClaim:1": 0,
       "isSilent:1": 0,
-      "desc:8": "Buffered Energy Hatch ZPM\n\nAllows for batteries to be placed inside the Energy Hatch\n\n[note]In one version of Twist, this recipe needed a UXV Energy Hatch to craft![/note]"
+      "desc:8": "Buffered Energy Hatch UHV\n\nAllows for batteries to be placed inside the Energy Hatch\n\n[note]In one version of Twist, this recipe needed a UXV Energy Hatch to craft![/note]"
     }
   },
   "tasks:9": {
