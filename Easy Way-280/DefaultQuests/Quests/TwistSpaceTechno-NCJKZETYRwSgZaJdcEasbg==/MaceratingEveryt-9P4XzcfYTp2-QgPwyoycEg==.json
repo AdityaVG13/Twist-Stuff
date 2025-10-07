@@ -1,0 +1,63 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 2614
+    },
+    "1:10": {
+      "questIDHigh:4": 255232111816426182,
+      "questIDLow:4": -7288053330851601378
+    },
+    "2:10": {
+      "questIDHigh:4": -5786785068673840013,
+      "questIDLow:4": -7685520096030895200
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "[quest]\"Mini\" Household Cell Fragmentizer[/quest]\nMachine Type: §aMacerator§r\nParallel is §c2§r^(§c2§r^(§aTier§r + §c2§r) - §c1§r)\nTier 1: §9Damascus Steel Blocks\nTier 2: §9Neutronium Blocks\nTier 3: §9Universium Blocks\nMax Voltage Tier is §alimited§r by the Glass Tier\nGain §c8x§r speed multiplier when glass tier §9is greater than§r recipe tier.\nMaybe you will use this machine to improve your mineral processing system until IOF.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 19036,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Macerating Everything",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -793170311782052195,
+  "questIDLow:4": -4737219525315093486,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 19036,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

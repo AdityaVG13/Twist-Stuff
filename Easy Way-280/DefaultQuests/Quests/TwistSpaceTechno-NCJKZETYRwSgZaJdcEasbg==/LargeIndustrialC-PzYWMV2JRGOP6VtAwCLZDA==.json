@@ -1,0 +1,63 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 3129
+    },
+    "1:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 2620
+    },
+    "2:10": {
+      "questIDHigh:4": -5786785068673840013,
+      "questIDLow:4": -7685520096030895200
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "[quest]Large Industrial Coking Factory [/quest]\nMachine Type: §aCoke Oven§r\nProcesses all inputs at once. \nHigher coil tier makes the machine run faster.\nThe Large Industrial Coking Factory is an upgrade for the Industrial Coke Oven\nRead [warn]ToolTips[/warn] for more information.\n§4§5§5§4§3§1§3§4§5§1§0§dPortion written by Annie Penndragon",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 19021,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Large Industrial Coking Factory",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 4554852474410320995,
+  "questIDLow:4": -8076824123052730100,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 19021,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

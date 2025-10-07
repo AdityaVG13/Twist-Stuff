@@ -1,0 +1,50 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -8190376831060786192,
+      "questIDLow:4": -6087268361248963518
+    },
+    "1:10": {
+      "questIDHigh:4": 8110806531463398727,
+      "questIDLow:4": -8238569586568005787
+    },
+    "2:10": {
+      "questIDHigh:4": -6083888391161033107,
+      "questIDLow:4": -6861911456329097050
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "These are the Twist Quests and Multis for UMV.\nChecking off this section and going further than this categorizes you as a real gamer btw. ",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 11232,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Twist in UMV",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 2101746974384934862,
+  "questIDLow:4": -8507532104973561708,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

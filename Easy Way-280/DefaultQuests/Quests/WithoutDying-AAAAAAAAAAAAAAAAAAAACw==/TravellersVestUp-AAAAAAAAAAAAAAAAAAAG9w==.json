@@ -1,0 +1,162 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 1781
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Your vest can be equipped with a few modifications like perfect dodge and stealth.\nPerfect dodge mean you\u0027re harder to hit and can be stacked up to 3 times.\nStealth turns you invisible while sneaking. Place the vest in the center of a Tinker\u0027s Crafting Station.\n\nHint:\nAutorepair can be added to the vest as well.\nEvery Armor part has 3 Slots for modification.",
+      "globalShare:1": 1,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "TConstruct:travelVest",
+        "tag:10": {
+          "TinkerArmor:10": {
+            "BaseDefense:6": 4.0,
+            "BaseDurability:4": 1035,
+            "BonusDurability:4": 0,
+            "Broken:4": 0,
+            "Built:4": 1,
+            "Damage:4": 0,
+            "DamageReduction:6": 0.0,
+            "Effect1:4": 0,
+            "Effect2:4": 1,
+            "Effect3:4": 4,
+            "MaxDefense:6": 10.0,
+            "ModDurability:6": 0.0,
+            "ModifierTip1:8": "Perfect Dodge",
+            "ModifierTip2:8": "Stealth",
+            "ModifierTip3:8": "Moss",
+            "Modifiers:4": 0,
+            "Moss:4": 3,
+            "Perfect Dodge:4": 1,
+            "Stealth:4": 1,
+            "Tooltip1:8": "Perfect Dodge",
+            "Tooltip2:8": "Stealth",
+            "Tooltip3:8": "Auto-Repair",
+            "TotalDurability:4": 1035
+          }
+        }
+      },
+      "isGlobal:1": 0,
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Traveller\u0027s Vest Upgrades",
+      "partySingleReward:1": 0,
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 0,
+  "questIDLow:4": 1783,
+  "rewards:9": {
+    "0:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 2,
+          "Damage:2": 8206,
+          "OreDict:8": "",
+          "id:8": "minecraft:potion"
+        },
+        "1:10": {
+          "Count:3": 2,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:ender_eye"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 5,
+          "OreDict:8": "",
+          "id:8": "enhancedlootbags:lootbag"
+        }
+      },
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:choice"
+    },
+    "1:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 1,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 25,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "dreamcraft:item.CoinSmith"
+        },
+        "1:10": {
+          "Count:3": 25,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "dreamcraft:item.CoinSurvivor"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "TConstruct:travelVest",
+          "tag:10": {
+            "TinkerArmor:10": {
+              "BaseDefense:6": 4.0,
+              "BaseDurability:4": 1035,
+              "BonusDurability:4": 0,
+              "Broken:4": 0,
+              "Built:4": 1,
+              "Damage:4": 0,
+              "DamageReduction:6": 0.0,
+              "MaxDefense:6": 10.0,
+              "ModDurability:6": 0.0,
+              "Modifiers:4": 3,
+              "TotalDurability:4": 1035
+            }
+          }
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:sugar"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:ender_pearl"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:ender_eye"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

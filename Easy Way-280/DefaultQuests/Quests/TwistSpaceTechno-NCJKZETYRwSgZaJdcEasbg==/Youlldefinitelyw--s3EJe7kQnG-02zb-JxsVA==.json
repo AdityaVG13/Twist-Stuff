@@ -1,0 +1,45 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 2542583933345222015,
+      "questIDLow:4": -8206041710499370799
+    },
+    "1:10": {
+      "questIDHigh:4": -6083888391161033107,
+      "questIDLow:4": -6861911456329097050
+    },
+    "2:10": {
+      "questIDHigh:4": -6078296071036190210,
+      "questIDLow:4": -8127302345207551228
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "[quest]Miracle Top[/quest]\nMachine Type: §aCircuit Assembler§r | §aGravitation Breaker§r\nMaximum amount of Rings: §c16§r | Minimum amount of Rings: §c2§r\nRead [warn]Tooltips[/warn] for more information.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 19003,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "You\u0027ll definitely want this Miracle",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -374427526801112463,
+  "questIDLow:4": -4696290294392656812,
+  "rewards:9": {},
+  "tasks:9": {}
+}

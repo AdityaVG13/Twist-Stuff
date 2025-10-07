@@ -1,0 +1,67 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -2314191042851944612,
+      "questIDLow:4": -8430404281229906303
+    },
+    "1:10": {
+      "questIDHigh:4": 8372508545510690790,
+      "questIDLow:4": -8023568636301343628
+    },
+    "2:10": {
+      "questIDHigh:4": 1129127224974068617,
+      "questIDLow:4": -4649916230229028919
+    },
+    "3:10": {
+      "questIDHigh:4": -187660449692889258,
+      "questIDLow:4": -7617382751284851191
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Congrates! You have just made the hardest item in GTNH History, and have now joined an exclusive club! \n[note]Contact Aditya on discord to be added to this list for a future update!\nContact EvgenWarGold on discord to be added to the in-game tooltip[/note]\n-------§r §6Twist Token Club§r §9-------§r\n1st§r: §5Aditya \\u0026 Hive Run§r\n§72nd§r: §cHoroboros \\u0026 Koneko§r\n§73rd§r: §bMonroth \\u0026 HyperCreep§r\n§74th§r: §bTuna§r",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "TwistSpaceTechnology:ProofOfGods"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "WHERE DREAMS... BECOME REALITY",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -6012337123294818429,
+  "questIDLow:4": -5285459641821226289,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "TwistSpaceTechnology:ProofOfGods"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

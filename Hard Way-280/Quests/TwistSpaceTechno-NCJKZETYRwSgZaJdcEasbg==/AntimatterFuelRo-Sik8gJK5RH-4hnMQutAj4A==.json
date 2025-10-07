@@ -1,0 +1,55 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 5724444440685332224,
+      "questIDLow:4": -9221845556068021181
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Antimatter Fuel Rod is an endgame Twist material used as a crafting component and as a fuel source in the Artificial Star. \nDo not worry about passiving this immediately as you will have a better method soon, but you should be comfortable in producing these as you continue. \"",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 16,
+        "OreDict:8": "",
+        "id:8": "TwistSpaceTechnology:MetaItem01"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Antimatter Fuel Rod",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 5343868955766899839,
+  "questIDLow:4": -5150302608160709664,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 64,
+          "Damage:2": 16,
+          "OreDict:8": "",
+          "id:8": "TwistSpaceTechnology:MetaItem01"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

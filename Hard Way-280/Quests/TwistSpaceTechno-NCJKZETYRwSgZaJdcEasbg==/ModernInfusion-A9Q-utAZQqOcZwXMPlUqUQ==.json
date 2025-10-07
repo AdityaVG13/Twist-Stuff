@@ -1,0 +1,67 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 1412
+    },
+    "1:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 1383
+    },
+    "2:10": {
+      "questIDHigh:4": 6802946551604464141,
+      "questIDLow:4": -8827280864137576339
+    },
+    "3:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 238
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "The risk of instability always accompanies players,now let us make infusion Gregified.\nTwist\u0027s version of the Infusion Matrix from Thaumcraft. \n[warn]Use the Infusion Supplier to supply Essence[/warn]\n[note]The Industrial Magic Matrix is unable to perform active infusions[/note]\nParallelism depends on the level of the structure block.\n§9There is more information on the ToolTip. Please refer to that for more information.§r\n[warn]This multi requires a lot of materials. Be sure to keep track of everything you need.[/warn]",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 19047,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Modern Infusion",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 275914449252598435,
+  "questIDLow:4": -7176761106414359983,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 19047,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

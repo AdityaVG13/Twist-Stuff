@@ -1,0 +1,75 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 386
+    },
+    "1:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 2038
+    },
+    "2:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 2614
+    },
+    "3:10": {
+      "questIDHigh:4": -5786785068673840013,
+      "questIDLow:4": -7685520096030895200
+    },
+    "4:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 2031
+    },
+    "5:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 2623
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "[quest]Magnetic Drive Pressure Former[/quest]\nMachine Type: §aExtruder§r | §aBending Machine§r | §aForming Press§r | §aForge Hammer§r\nRead [warn]ToolTips[/warn] for more information.\nThe Magnetic Drive Pressure Former is a §915x25x15§r Cylinder-shaped Multiblock used as a direct upgrade for 4 different Multiblocks: Extruder, Bending Machine, Forming Press and Forge Hammer.\n§dPortion written by Annie Penndragon§r",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 19004,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Magnetic Drive Pressure Former",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -4265664857654146276,
+  "questIDLow:4": -8121588995939625937,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 19004,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

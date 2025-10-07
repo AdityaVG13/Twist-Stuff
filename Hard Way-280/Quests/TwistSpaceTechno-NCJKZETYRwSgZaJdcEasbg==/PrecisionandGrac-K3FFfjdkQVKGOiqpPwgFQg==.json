@@ -1,0 +1,67 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 2624
+    },
+    "1:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 2617
+    },
+    "2:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 2618
+    },
+    "3:10": {
+      "questIDHigh:4": -138215484119431597,
+      "questIDLow:4": -7777781086679696342
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "[quest]Holy Separator[/quest]\nMachine Type: §aCutter§r | §aSlicer§r | §aLathe§r\n8x§r Parallel per segment\n16§r segments enables §9Perfect Overclock§r\n§c10%§r Time reduction per Voltage Tier\nIf you are troubled by cutting §9diamond plates§r, you can choose to make this machine.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 19009,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Precision and Grace",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 3130359624396718418,
+  "questIDLow:4": -8774654017582660286,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 19009,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

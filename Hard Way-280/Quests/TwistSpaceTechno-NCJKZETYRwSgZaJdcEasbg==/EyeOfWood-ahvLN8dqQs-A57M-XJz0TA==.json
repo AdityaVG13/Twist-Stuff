@@ -1,0 +1,96 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 1342394679720627927,
+      "questIDLow:4": -7261330277401756421
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "§\n§rEye of Wood, a multiblock structure for Steam Age.\nMachine Type: §aHappiness Master§r§r\nMachine need§r §l§cLava§c §rand§9§r §9Water§r§9 §rto run,§r\nYou can read Tooltips to get more information.\n[warn]CAN ONLY BE PLACED IN THE OVERWORLD, UNLESS CHANGED IN CONFIG[/warn]",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 19034,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Eye Of Wood",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 7645928232820818639,
+  "questIDLow:4": -9158154236811479988,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 534,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:planks"
+        },
+        "1:10": {
+          "Count:3": 48,
+          "Damage:2": 5,
+          "OreDict:8": "",
+          "id:8": "minecraft:monster_egg"
+        },
+        "2:10": {
+          "Count:3": 138,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:bookshelf"
+        },
+        "3:10": {
+          "Count:3": 896,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:brick_block"
+        },
+        "4:10": {
+          "Count:3": 32,
+          "Damage:2": 10,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockcasings"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 19034,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

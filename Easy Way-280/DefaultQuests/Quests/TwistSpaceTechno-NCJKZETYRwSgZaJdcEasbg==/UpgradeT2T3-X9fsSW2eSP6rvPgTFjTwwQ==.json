@@ -1,0 +1,89 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 7040102550642772893,
+      "questIDLow:4": -7011881392236188823
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "T2 and T3 frame blocks.\nThis task is optional.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 2,
+        "OreDict:8": "",
+        "id:8": "TwistSpaceTechnology:SpaceTimeOscillator"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Upgrade:T2\u0026T3",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 6906248353711802622,
+  "questIDLow:4": -6071705436741635903,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 48,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "TwistSpaceTechnology:SpaceTimeOscillator"
+        },
+        "1:10": {
+          "Count:3": 48,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "TwistSpaceTechnology:SpaceTimeConstraintor"
+        },
+        "2:10": {
+          "Count:3": 48,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "TwistSpaceTechnology:SpaceTimeMerger"
+        },
+        "3:10": {
+          "Count:3": 48,
+          "Damage:2": 2,
+          "OreDict:8": "",
+          "id:8": "TwistSpaceTechnology:SpaceTimeOscillator"
+        },
+        "4:10": {
+          "Count:3": 48,
+          "Damage:2": 2,
+          "OreDict:8": "",
+          "id:8": "TwistSpaceTechnology:SpaceTimeConstraintor"
+        },
+        "5:10": {
+          "Count:3": 48,
+          "Damage:2": 2,
+          "OreDict:8": "",
+          "id:8": "TwistSpaceTechnology:SpaceTimeMerger"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

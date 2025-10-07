@@ -1,0 +1,88 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -1411549888883833743,
+      "questIDLow:4": -5999342666836796335
+    },
+    "1:10": {
+      "questIDHigh:4": -5918599008967570585,
+      "questIDLow:4": -6232511347414889484
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "[quest]Strange Matter Aggregator[/quest]\nMachine Type:§r Modularized Machine - §aStrange Matter Aggregator§r\nYou must set the number of rings per multi-specific block within the Machine UI.\nMulti-Specific Blocks: \nOscillator\\nConstraintor\\nMerger\n[warn]DO NOT, AND I REPEAT DO NOT USE MORE THAN §91§r HOLOGRAM PROJECTOR ON THIS MULTI[/warn]\n[note]It is recommended to go for 15 15 24 for Rings. The Multi will be about 1100 blocks long[/note]\nInput Hatch of SpaceTime Maintenance Fluid: §1§aLeft of the Controller Block§r\nInput Bus of Core Element and Annihilation Constrainer: §1§aRight of the Controller Block§r\n[note]Higher Tier, more rings, more benefits, but more resources required[/note]\nPlace §9Modular Hatches§r around the controller to enhance your machine.\n§6Installable Modules§r are: \n§cPower Consumption Controller Module§r: Reduces machine energy consumption\n§cSpeed Controller Module§r: Increases machine processing speed\nThe working principle of this machine is too complex,you can read [warn]ToolTips[/warn] for more information.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 19059,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "§6§lThis Process will be STRANGE",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 7040102550642772893,
+  "questIDLow:4": -7011881392236188823,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 48,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "TwistSpaceTechnology:SpaceTimeConstraintor"
+        },
+        "1:10": {
+          "Count:3": 48,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "TwistSpaceTechnology:SpaceTimeOscillator"
+        },
+        "2:10": {
+          "Count:3": 48,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "TwistSpaceTechnology:SpaceTimeMerger"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 19059,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

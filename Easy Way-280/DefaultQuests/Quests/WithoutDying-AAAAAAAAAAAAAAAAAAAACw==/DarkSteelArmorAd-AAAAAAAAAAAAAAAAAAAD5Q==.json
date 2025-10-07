@@ -1,0 +1,524 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 0,
+      "questIDLow:4": 991
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Your Dark Steel armor can be upgraded in various ways by combining it with various other items. You will need an anvil and a lot of XP.\n\nMake sure when making the potions to only do three at a time, so the NBT data matches.",
+      "globalShare:1": 1,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "EnderIO:item.darkSteel_chestplate",
+        "tag:10": {
+          "enderio.darksteel.upgrade.apiaristArmor:10": {
+            "level_cost:4": 10,
+            "slot:4": 1,
+            "unlocalized_name:8": "enderio.darksteel.upgrade.apiaristArmor.chestplate",
+            "upgradeItem:10": {
+              "Count:4": 1,
+              "Damage:4": 0,
+              "id:4": 4910
+            }
+          },
+          "enderio.darksteel.upgrade.energyUpgrade:10": {
+            "capacity:4": 1000000,
+            "energy:4": 1000000,
+            "level_cost:4": 20,
+            "maxInput:4": 10000,
+            "maxOuput:4": 10000,
+            "unlocalized_name:8": "enderio.darksteel.upgrade.empowered_four",
+            "upgradeItem:10": {
+              "Count:4": 1,
+              "Damage:4": 2,
+              "id:4": 5635
+            }
+          },
+          "enderio.darksteel.upgrade.glide:10": {
+            "level_cost:4": 10,
+            "unlocalized_name:8": "enderio.darksteel.upgrade.glider",
+            "upgradeItem:10": {
+              "Count:4": 1,
+              "Damage:4": 1,
+              "id:4": 5654
+            }
+          }
+        }
+      },
+      "isGlobal:1": 0,
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Dark Steel Armor Advanced Upgrades",
+      "partySingleReward:1": 0,
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 0,
+  "questIDLow:4": 997,
+  "rewards:9": {
+    "0:10": {
+      "choices:9": {
+        "0:10": {
+          "Count:3": 2,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "EnderIO:blockSolarPanel"
+        },
+        "1:10": {
+          "Count:3": 8,
+          "Damage:2": 2,
+          "OreDict:8": "",
+          "id:8": "EnderIO:itemBasicCapacitor"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "OreDict:8": "",
+          "id:8": "EnderIO:blockCapBank",
+          "tag:10": {
+            "storedEnergyRF:4": 0,
+            "type:8": "VIBRANT"
+          }
+        },
+        "3:10": {
+          "Count:3": 16,
+          "Damage:2": 8262,
+          "OreDict:8": "",
+          "id:8": "minecraft:potion"
+        },
+        "4:10": {
+          "Count:3": 16,
+          "Damage:2": 8258,
+          "OreDict:8": "",
+          "id:8": "minecraft:potion"
+        },
+        "5:10": {
+          "Count:3": 1,
+          "Damage:2": 6,
+          "OreDict:8": "",
+          "id:8": "enhancedlootbags:lootbag"
+        }
+      },
+      "ignoreDisabled:1": 0,
+      "index:3": 0,
+      "rewardID:8": "bq_standard:choice"
+    },
+    "1:10": {
+      "ignoreDisabled:1": 0,
+      "index:3": 1,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 5,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "dreamcraft:item.CoinSurvivorI"
+        },
+        "1:10": {
+          "Count:3": 5,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "dreamcraft:item.CoinSmithI"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 4,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "EnderIO:itemBasicCapacitor"
+        },
+        "1:10": {
+          "Count:3": 4,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "EnderIO:itemBasicCapacitor"
+        },
+        "2:10": {
+          "Count:3": 4,
+          "Damage:2": 2,
+          "OreDict:8": "",
+          "id:8": "EnderIO:itemBasicCapacitor"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Forestry:apiaristHelmet"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Forestry:apiaristChest"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Forestry:apiaristLegs"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Forestry:apiaristBoots"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "2:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 2,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 3,
+          "Damage:2": 8194,
+          "OreDict:8": "",
+          "id:8": "minecraft:potion"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 8198,
+          "OreDict:8": "",
+          "id:8": "minecraft:potion"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "3:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 3,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:waterlily"
+        },
+        "1:10": {
+          "Count:3": 3,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:piston"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "4:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 4,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "EnderIO:blockSolarPanel"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "EnderIO:blockSolarPanel"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "5:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 5,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Thaumcraft:ItemGoggles"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "Forestry:naturalistHelmet"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "6:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 6,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "EnderIO:itemGliderWing"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "minecraft:noteblock"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "7:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 0,
+      "index:3": 7,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "EnderIO:item.darkSteel_helmet",
+          "tag:10": {
+            "enderio.darksteel.upgrade.apiaristArmor:10": {
+              "level_cost:4": 10,
+              "slot:4": 0,
+              "unlocalized_name:8": "enderio.darksteel.upgrade.apiaristArmor.helmet",
+              "upgradeItem:10": {
+                "Count:4": 1,
+                "Damage:4": 0
+              }
+            },
+            "enderio.darksteel.upgrade.energyUpgrade:10": {
+              "capacity:4": 1000000,
+              "energy:4": 1000000,
+              "level_cost:4": 20,
+              "maxInput:4": 10000,
+              "maxOuput:4": 10000,
+              "unlocalized_name:8": "enderio.darksteel.upgrade.empowered_four",
+              "upgradeItem:10": {
+                "Count:4": 1,
+                "Damage:4": 2
+              }
+            },
+            "enderio.darksteel.upgrade.gogglesRevealing:10": {
+              "level_cost:4": 10,
+              "unlocalized_name:8": "enderio.darksteel.upgrade.gogglesOfRevealing",
+              "upgradeItem:10": {
+                "Count:4": 1,
+                "Damage:4": 0
+              }
+            },
+            "enderio.darksteel.upgrade.naturalistEye:10": {
+              "level_cost:4": 10,
+              "unlocalized_name:8": "enderio.darksteel.upgrade.naturalistEye",
+              "upgradeItem:10": {
+                "Count:4": 1,
+                "Damage:4": 0
+              }
+            },
+            "enderio.darksteel.upgrade.nightVision:10": {
+              "level_cost:4": 10,
+              "unlocalized_name:8": "enderio.darksteel.upgrade.nightVision",
+              "upgradeItem:10": {
+                "Count:4": 1,
+                "Damage:4": 8198
+              }
+            },
+            "enderio.darksteel.upgrade.soundDetector:10": {
+              "level_cost:4": 10,
+              "unlocalized_name:8": "enderio.darksteel.upgrade.sound",
+              "upgradeItem:10": {
+                "Count:4": 1,
+                "Damage:4": 0,
+                "id:4": 25
+              }
+            },
+            "enderio.darksteel.upgrade.speedBoost:10": {
+              "level:4": 2,
+              "level_cost:4": 30,
+              "unlocalized_name:8": "enderio.darksteel.upgrade.solar_two",
+              "upgradeItem:10": {
+                "Count:4": 1,
+                "Damage:4": 1
+              }
+            }
+          }
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "EnderIO:item.darkSteel_chestplate",
+          "tag:10": {
+            "enderio.darksteel.upgrade.apiaristArmor:10": {
+              "level_cost:4": 10,
+              "slot:4": 1,
+              "unlocalized_name:8": "enderio.darksteel.upgrade.apiaristArmor.chestplate",
+              "upgradeItem:10": {
+                "Count:4": 1,
+                "Damage:4": 0
+              }
+            },
+            "enderio.darksteel.upgrade.energyUpgrade:10": {
+              "capacity:4": 1000000,
+              "energy:4": 1000000,
+              "level_cost:4": 20,
+              "maxInput:4": 10000,
+              "maxOuput:4": 10000,
+              "unlocalized_name:8": "enderio.darksteel.upgrade.empowered_four",
+              "upgradeItem:10": {
+                "Count:4": 1,
+                "Damage:4": 2
+              }
+            },
+            "enderio.darksteel.upgrade.glide:10": {
+              "level_cost:4": 10,
+              "unlocalized_name:8": "enderio.darksteel.upgrade.glider",
+              "upgradeItem:10": {
+                "Count:4": 1,
+                "Damage:4": 1
+              }
+            }
+          }
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "EnderIO:item.darkSteel_leggings",
+          "tag:10": {
+            "enderio.darksteel.upgrade.apiaristArmor:10": {
+              "level_cost:4": 10,
+              "slot:4": 2,
+              "unlocalized_name:8": "enderio.darksteel.upgrade.apiaristArmor.leggings",
+              "upgradeItem:10": {
+                "Count:4": 1,
+                "Damage:4": 0
+              }
+            },
+            "enderio.darksteel.upgrade.energyUpgrade:10": {
+              "capacity:4": 1000000,
+              "energy:4": 1000000,
+              "level_cost:4": 20,
+              "maxInput:4": 10000,
+              "maxOuput:4": 10000,
+              "unlocalized_name:8": "enderio.darksteel.upgrade.empowered_four",
+              "upgradeItem:10": {
+                "Count:4": 1,
+                "Damage:4": 2
+              }
+            },
+            "enderio.darksteel.upgrade.speedBoost:10": {
+              "level:4": 3,
+              "level_cost:4": 20,
+              "multiplier:6": 0.0,
+              "unlocalized_name:8": "enderio.darksteel.upgrade.speed_three",
+              "upgradeItem:10": {
+                "Count:4": 1,
+                "Damage:4": 8194
+              }
+            }
+          }
+        },
+        "3:10": {
+          "Count:3": 1,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "EnderIO:item.darkSteel_boots",
+          "tag:10": {
+            "enderio.darksteel.upgrade.apiaristArmor:10": {
+              "level_cost:4": 10,
+              "slot:4": 3,
+              "unlocalized_name:8": "enderio.darksteel.upgrade.apiaristArmor.boots",
+              "upgradeItem:10": {
+                "Count:4": 1,
+                "Damage:4": 0
+              }
+            },
+            "enderio.darksteel.upgrade.energyUpgrade:10": {
+              "capacity:4": 1000000,
+              "energy:4": 1000000,
+              "level_cost:4": 20,
+              "maxInput:4": 10000,
+              "maxOuput:4": 10000,
+              "unlocalized_name:8": "enderio.darksteel.upgrade.empowered_four",
+              "upgradeItem:10": {
+                "Count:4": 1,
+                "Damage:4": 2
+              }
+            },
+            "enderio.darksteel.upgrade.jumpBoost:10": {
+              "level:4": 3,
+              "level_cost:4": 20,
+              "unlocalized_name:8": "enderio.darksteel.upgrade.jump_three",
+              "upgradeItem:10": {
+                "Count:4": 1,
+                "Damage:4": 0
+              }
+            },
+            "enderio.darksteel.upgrade.swim:10": {
+              "level_cost:4": 10,
+              "unlocalized_name:8": "enderio.darksteel.upgrade.swim",
+              "upgradeItem:10": {
+                "Count:4": 1,
+                "Damage:4": 0
+              }
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 2101746974384934862,
+      "questIDLow:4": -8507532104973561708
+    },
+    "1:10": {
+      "questIDHigh:4": -5918599008967570585,
+      "questIDLow:4": -6232511347414889484
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "[quest]Miracle Door[/quest]\n§6Machine Type: §aStellar Forge§r | §aStellar Forge : Alloy Smelter§r\nA §aCritical Photon§r is required to start the machine | All recipes will be ran at the same time\\n\\nPower Consumption:\nAlloy Smelter: §c100%§r\nStellar Forge: §c200%§r\nDirectly takes power from your Wireless EU Net\nPut a §aCircuit§r into the Controller Block to decrease the processing time\n[warn]If you do not have enough power in your Wireless EU Net, you will void the inputs[/warn]\nRead [warn]Tootips[/warn] for more information.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 19016,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "This is also a Miracle, but its also a Door",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -6342693393742019778,
+  "questIDLow:4": -6431589647158329201,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 19016,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

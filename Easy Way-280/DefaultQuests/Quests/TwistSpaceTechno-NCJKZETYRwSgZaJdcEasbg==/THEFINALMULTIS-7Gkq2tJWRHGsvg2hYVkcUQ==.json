@@ -1,0 +1,50 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -1772695771338356559,
+      "questIDLow:4": -5865034814944347891
+    },
+    "1:10": {
+      "questIDHigh:4": -1224350904333220370,
+      "questIDLow:4": -6509950608256890330
+    },
+    "2:10": {
+      "questIDHigh:4": 8110806531463398727,
+      "questIDLow:4": -8238569586568005787
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "These is final mulits for TST,I hope these can help you on your graduation journey",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 11233,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "THE FINAL MULTIS",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -1411549888883833743,
+  "questIDLow:4": -5999342666836796335,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "index:3": 1,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

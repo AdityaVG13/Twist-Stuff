@@ -1,0 +1,104 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -4358820164657854111,
+      "questIDLow:4": -6507513553367570596
+    },
+    "1:10": {
+      "questIDHigh:4": -5116153221248761540,
+      "questIDLow:4": -9206015034842694688
+    },
+    "2:10": {
+      "questIDHigh:4": -5786785068673840013,
+      "questIDLow:4": -7685520096030895200
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "[quest]Precise High-Energy Photonic Quantum Master[/quest]\nMachine Type: §aPhoton Controller§r | §aLaser Engraver§r\nYou can install §aPhotonic Intensifiers§r on the backside of the structure to drastically increase production speeds. \nMulti upgrade modules can be stacked/removed. Replace using normal casings. \n§k§l§r§aPhoton Controller Mode:§r \n16x§r Paralle\n§aLaser Engraver Mode:§r\n256x§r Parallel,§c50%§r Time Reduction\nYou will like this machine when you are making §l§b§lExcited §b§lDimensionally Transcendent Catalyst§r\n§dPortion written by Annie Penndragon\n",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 19002,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Photonic Quantum Master",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -2413880904910091801,
+  "questIDLow:4": -6032422855324731695,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 317,
+          "Damage:2": 7,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockcasings8"
+        },
+        "1:10": {
+          "Count:3": 25,
+          "Damage:2": 4,
+          "OreDict:8": "",
+          "id:8": "TwistSpaceTechnology:PhotonControllerUpgrades"
+        },
+        "2:10": {
+          "Count:3": 77,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "tectech:gt.blockcasingsTT"
+        },
+        "3:10": {
+          "Count:3": 52,
+          "Damage:2": 1,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockcasings9"
+        },
+        "4:10": {
+          "Count:3": 76,
+          "Damage:2": 9,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockcasings2"
+        }
+      },
+      "taskID:8": "bq_standard:optional_retrieval"
+    },
+    "1:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 19002,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

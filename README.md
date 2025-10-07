@@ -8,6 +8,7 @@ The DefaultQuests is the entire QuestBook from GTNH, including a chapter on Twis
 To add it to your pack: 
 
 First, click the blue `<> CODE` button and download the ZIP
+If your GT:NH version is 2.8.0,please use 2.8.0 branch.
 
 1. Go to configs
 2. Navigate to the betterquesting folder 

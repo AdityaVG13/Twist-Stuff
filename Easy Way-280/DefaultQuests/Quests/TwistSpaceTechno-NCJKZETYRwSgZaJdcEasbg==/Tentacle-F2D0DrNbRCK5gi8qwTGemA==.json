@@ -1,0 +1,63 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -1411549888883833743,
+      "questIDLow:4": -5999342666836796335
+    },
+    "1:10": {
+      "questIDHigh:4": -4581646162533137172,
+      "questIDLow:4": -5606710145730409374
+    },
+    "2:10": {
+      "questIDHigh:4": -2640443013906741533,
+      "questIDLow:4": -6897090588793529674
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "[quest]Indistinct Tentacle[/quest]\nMachine Type: §aAssembly Line§r | §aComponent Assembly Line§r | §aAssembler§r | §aPrecise Assembler§r\nBy utilizing the characteristics of quantum circuits, we can improve the original methods of assembling and crafting items.\nMake 4 Tentacle to replace Assembly Line,Component Assembly Line,(Precise)Assembler,even if the task requires you to make only one machine\nGlass Tier limits Energy Hatch Tier | Laser Hatches require UV+ Glass\nComponent Casing Tier limits Recipe Tier | Casing Tier requires at least recipe voltage level - §c1§r\nIf Component Casing Tier is higher than recipe tier, enable §9Perfect Overclock§r\nUMV+ Glass and Component Casing enables §aWireless Mode§r\nProcessing Time is §bfixed§r in Wireless Mode.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 19028,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Tentacle",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 1684614604612387874,
+  "questIDLow:4": -5079445569044111720,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 19028,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -3156924644379048251,
+      "questIDLow:4": -8154538760419932833
+    },
+    "1:10": {
+      "questIDHigh:4": 1253795793897603481,
+      "questIDLow:4": -8313388353050044862
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "Solar Sails are the second half of what you need to send up in your Dyson Sphere Launch Site to produce power and Critical Photons from the Dyson Sphere Ray Receiver.\n[warn]Remember to calculate the ratio correctly with Carrier Vehicles sent up or you willl have a very bad time.[/warn] \nAlthough the mission requires you to make 128 solar sails, in order to ensure your power generation is not worrying, you will need §o§l§c§lmore than§r just that number of solar sails.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 9,
+        "OreDict:8": "",
+        "id:8": "TwistSpaceTechnology:MetaItem01"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Solar Sails!",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -6625730851177150926,
+  "questIDLow:4": -5687045820285085255,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 128,
+          "Damage:2": 9,
+          "OreDict:8": "",
+          "id:8": "TwistSpaceTechnology:MetaItem01"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}
