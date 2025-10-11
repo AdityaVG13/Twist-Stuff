@@ -1,0 +1,52 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -7949765678093284760,
+      "questIDLow:4": -7384462910267243515
+    },
+    "1:10": {
+      "questIDHigh:4": -1411549888883833743,
+      "questIDLow:4": -5999342666836796335
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "§6Machine Type: §aDyson Sphere Program: Annihilation Generator§r\nAfter you make Harmony of eyes,you can make this machine.\nThis machine can use §e3§r types of fuels.Read [warn]ToolTips[/warn] for more information.\nDifferent fuels have different efficency.\nIf you want to continue using the highest grade fuel,please make sure to produce a §olarge§r number of space elevators,because get 1 Core Element need §r§b1,000§r zero point module.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 19015,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Use Stellar Engrgy",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -9101785340679402511,
+  "questIDLow:4": -5987219225192722581,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {},
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}
