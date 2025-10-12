@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Micro Spacetime Fabricatorio[/quest]\nMachine Type: §aArtificial SpaceTime Fabricator§r\nUpgrading the T2 Field Blocks enables §9Perfect Overclock§r, with further upgrades increasing the running speed.\nUsing Advanced Field Blocks [warn]REQUIRES[/warn] Advanced Structure Casing.\nProviding §a1§r Space-Time Seed in dedicated input bus will §c2x§r the output.",
+      "desc:8": "[quest]Micro Spacetime Fabricatorio[/quest]\nMachine Type: §aArtificial SpaceTime Fabricator§r\nThis is a better choice for Raw Tesseract producting.\nUpgrading the T2 Field Blocks enables §9Perfect Overclock§r, with further upgrades increasing the running speed.\nUsing Advanced Field Blocks [warn]REQUIRES[/warn] Advanced Structure Casing.\nProviding §a1§r Space-Time Seed in dedicated input bus will §c2x§r the output.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

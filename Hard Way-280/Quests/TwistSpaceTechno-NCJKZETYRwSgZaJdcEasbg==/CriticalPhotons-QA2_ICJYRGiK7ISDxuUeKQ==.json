@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "Critical Photons are a byproduct of the Dyson Sphere Ray Receiver in collection mode. \nYou will need Critical Photons to create Antimatter which is required for endgame Twist Items.",
+      "desc:8": "Critical Photons are a byproduct of the Dyson Sphere Ray Receiver in collection mode. \nYou will need Critical Photons to create Antimatter which is required for endgame Twist Items.\nThis is the prerequisite for starting the §9§aMiracle Door§r.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

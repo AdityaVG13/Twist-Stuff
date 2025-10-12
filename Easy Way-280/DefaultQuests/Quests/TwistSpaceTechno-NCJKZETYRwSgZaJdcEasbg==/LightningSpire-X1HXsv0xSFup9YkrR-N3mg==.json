@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Lightning Spire[/quest]\nMachine Type: §aMulti Lightning Rod§r\nMaximum storage capacity of §c512§r Lightning Rods (I)\nEach Lightning Rod produces §c28 MEU§r per lightning strike and stores §c280 MEU§r. \nConsumes §c128L§r Cryotheum band §c72L§r * (the number of lightning rods) Molten Iron every lightning.\n[warn]Quantitative input is required. Too much or too little input will lead to failure.[/warn]",
+      "desc:8": "[quest]Lightning Spire[/quest]\nMachine Type: §aMulti Lightning Rod§r\nIf you are tired about [warn]safety[/warn] of nuclear reactors,let us use Lightning Spire\nMaximum storage capacity of §c512§r Lightning Rods (I)\nEach Lightning Rod produces §c28 MEU§r per lightning strike and stores §c280 MEU§r. \nConsumes §c128L§r Cryotheum band §c72L§r * (the number of lightning rods) Molten Iron every lightning.\n[warn]Quantitative input is required. Too much or too little input will lead to failure.[/warn]",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

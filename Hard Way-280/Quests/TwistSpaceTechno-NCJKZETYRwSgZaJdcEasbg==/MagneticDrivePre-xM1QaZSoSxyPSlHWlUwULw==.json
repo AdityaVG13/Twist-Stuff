@@ -28,7 +28,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Magnetic Drive Pressure Former[/quest]\nMachine Type: §aExtruder§r | §aBending Machine§r | §aForming Press§r | §aForge Hammer§r\nRead [warn]ToolTips[/warn] for more information.\nThe Magnetic Drive Pressure Former is a §915x25x15§r Cylinder-shaped Multiblock used as a direct upgrade for 4 different Multiblocks: Extruder, Bending Machine, Forming Press and Forge Hammer.\n§dPortion written by Annie Penndragon§r",
+      "desc:8": "[quest]Magnetic Drive Pressure Former[/quest]\nMachine Type: §aExtruder§r | §aBending Machine§r | §aForming Press§r | §aForge Hammer§r\nRead [warn]ToolTips[/warn] for more information.\nBenefit from the dense nature of neutrons, we can produce plates faster.\nThe Magnetic Drive Pressure Former is a §915x25x15§r Cylinder-shaped Multiblock used as a direct upgrade for 4 different Multiblocks: Extruder, Bending Machine, Forming Press and Forge Hammer.\n§dPortion written by Annie Penndragon§r",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

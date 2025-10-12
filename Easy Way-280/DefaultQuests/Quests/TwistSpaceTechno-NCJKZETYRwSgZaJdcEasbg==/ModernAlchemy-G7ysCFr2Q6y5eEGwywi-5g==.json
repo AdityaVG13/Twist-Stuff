@@ -1,29 +1,33 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 8513962934803318303,
-      "questIDLow:4": -6092045615006895202
+      "questIDHigh:4": 0,
+      "questIDLow:4": 240
     },
     "1:10": {
       "questIDHigh:4": 0,
-      "questIDLow:4": 3236
+      "questIDLow:4": 1416
+    },
+    "2:10": {
+      "questIDHigh:4": 6802946551604464141,
+      "questIDLow:4": -8827280864137576339
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Dyson Sphere Module Launch Site[/quest]\nMachine Type: §aDyson Sphere Program: Launch Site§r\nLaunch Dyson Sphere Components into orbit to form a Dyson Sphere | Accepted Components: Launch Vehicles \\u0026 Solar Sails\n§9NO§r Overclock,§9NO§r Extra Parallel\nHigher Tier of Elevator Motor Module could Faster Launching\nInputting §9Space Warper§r will enable overload mode; Reduces Launch Intervals. \\n\\nWill join the Wireless EU Network if no Energy Hatch is installed.\nRead [warn]Toottips[/warn] for more information.\n[note]If you don\u0027t know where to build the Dyson Sphere System, remember, it must be built at Vega B.[/note]",
+      "desc:8": "§6Machine Type: §aThaumatorium§r\nThe Twist version of the Thaumatorium.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 19013,
+        "Damage:2": 19064,
         "OreDict:8": "",
         "id:8": "gregtech:gt.blockmachines"
       },
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Site Launching",
+      "name:8": "Modern Alchemy",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -34,8 +38,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 1253795793897603481,
-  "questIDLow:4": -8313388353050044862,
+  "questIDHigh:4": 1998661486531462060,
+  "questIDLow:4": -5082239951911207194,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -48,7 +52,7 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 19013,
+          "Damage:2": 19064,
           "OreDict:8": "",
           "id:8": "gregtech:gt.blockmachines"
         }

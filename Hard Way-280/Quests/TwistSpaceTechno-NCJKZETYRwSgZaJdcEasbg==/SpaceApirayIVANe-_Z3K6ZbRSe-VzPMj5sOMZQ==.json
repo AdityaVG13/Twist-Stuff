@@ -1,29 +1,29 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": 8513962934803318303,
-      "questIDLow:4": -6092045615006895202
+      "questIDHigh:4": 2101746974384934862,
+      "questIDLow:4": -8507532104973561708
     },
     "1:10": {
-      "questIDHigh:4": 0,
-      "questIDLow:4": 3236
+      "questIDHigh:4": -5918599008967570585,
+      "questIDLow:4": -6232511347414889484
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Dyson Sphere Module Launch Site[/quest]\nMachine Type: §aDyson Sphere Program: Launch Site§r\nLaunch Dyson Sphere Components into orbit to form a Dyson Sphere | Accepted Components: Launch Vehicles \\u0026 Solar Sails\n§9NO§r Overclock,§9NO§r Extra Parallel\nHigher Tier of Elevator Motor Module could Faster Launching\nInputting §9Space Warper§r will enable overload mode; Reduces Launch Intervals. \\n\\nWill join the Wireless EU Network if no Energy Hatch is installed.\nRead [warn]Toottips[/warn] for more information.\n[note]If you don\u0027t know where to build the Dyson Sphere System, remember, it must be built at Vega B.[/note]",
+      "desc:8": "§7§6Machine Type: §aBee Processing§r\nMax Parallels: §c2,147,483,647§r\nIf you are still not satisfied with the production of bee hives, then make this machine.\n[note]Needs at least Space Elevator Motor MK-IV to work. [/note]",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 19013,
+        "Damage:2": 19045,
         "OreDict:8": "",
         "id:8": "gregtech:gt.blockmachines"
       },
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Site Launching",
+      "name:8": "Space Apiray IV: A New Hope",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -34,8 +34,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 1253795793897603481,
-  "questIDLow:4": -8313388353050044862,
+  "questIDHigh:4": -171758106163721745,
+  "questIDLow:4": -7652474331288335259,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -48,7 +48,7 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 19013,
+          "Damage:2": 19045,
           "OreDict:8": "",
           "id:8": "gregtech:gt.blockmachines"
         }

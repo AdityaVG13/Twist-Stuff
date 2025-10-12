@@ -16,7 +16,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Miracle Top[/quest]\nMachine Type: §aCircuit Assembler§r | §aGravitation Breaker§r\nMaximum amount of Rings: §c16§r | Minimum amount of Rings: §c2§r\nRead [warn]Tooltips[/warn] for more information.",
+      "desc:8": "[quest]Miracle Top[/quest]\nMachine Type: §aCircuit Assembler§r | §aGravitation Breaker§r\nMaximum amount of Rings: §c16§r | Minimum amount of Rings: §c2§r\nIf you want to produce §ca large number of§r circuit boards in a short period of time, then you definitely need this Miracle Top.\nNow give up your small circult assemble machine.They are §9§7§3§6§lextremely§r inefficient.\n§6Gravitation Breaker§r mode can make Antimatter\nRead [warn]Tooltips[/warn] for more information.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -41,5 +41,23 @@
   "questIDHigh:4": -374427526801112463,
   "questIDLow:4": -4696290294392656812,
   "rewards:9": {},
-  "tasks:9": {}
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 19003,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
 }
