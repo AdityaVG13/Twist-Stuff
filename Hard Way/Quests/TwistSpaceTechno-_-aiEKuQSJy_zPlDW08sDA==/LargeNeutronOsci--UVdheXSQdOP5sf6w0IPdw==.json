@@ -1,5 +1,4 @@
 {
-  "questIDHigh:4": -484878555204664877,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
@@ -10,50 +9,51 @@
       "questIDLow:4": -5639118682681241385
     }
   },
-  "questIDLow:4": -8077549001810768009,
   "properties:10": {
     "betterquesting:10": {
-      "snd_complete:8": "random.levelup",
-      "taskLogic:8": "AND",
-      "visibility:8": "NORMAL",
-      "isMain:1": 1,
-      "simultaneous:1": 0,
+      "autoClaim:1": 0,
+      "desc:8": "[quest]Large Neutron Oscillator[/quest]\n\n§6Machine Type:§r Modularized Machine - §aNeutron Activator§r\n\nThis is the first Twist Modular Machine that you will encounter. \n\nPlace §9Modular Hatches§r around the controller to enhance your machine.\n\n§6Installable Modules§r are: \n\n§cOverclock Controller Module§r: Sets machine overclock type\n§cParallel Controller Module§r: Sets machine parallels\n§cPower Consumption Controller Module§r: Reduces machine energy consumption\n§cSpeed Controller Module§r: Increases machine processing speed\n§cExecution Core Module§r: Adds additional running units to machine, enabling §9True Parallelism§r\n\n[warn]Only the §aExecution Core Module§r can be installed more than once[/warn]",
+      "globalShare:1": 0,
       "icon:10": {
-        "id:8": "gregtech:gt.blockmachines",
         "Count:3": 1,
         "Damage:2": 19055,
-        "OreDict:8": ""
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
       },
-      "snd_update:8": "random.levelup",
-      "repeatTime:3": -1,
-      "globalShare:1": 0,
-      "questLogic:8": "AND",
-      "repeat_relative:1": 1,
-      "name:8": "Large Neutron Oscillator",
-      "lockedProgress:1": 0,
-      "autoClaim:1": 0,
+      "isMain:1": 1,
       "isSilent:1": 0,
-      "desc:8": "[quest]Large Neutron Oscillator[/quest]\n\n§6Machine Type:§r Modularized Machine - §aNeutron Activator§r\n\nThis is the first Twist Modular Machine that you will encounter. \n\nPlace §9Modular Hatches§r around the controller to enhance your machine.\n\n§6Installable Modules§r are: \n\n§cOverclock Controller Module§r: Sets machine overclock type\n§cParallel Controller Module§r: Sets machine parallels\n§cPower Consumption Controller Module§r: Reduces machine energy consumption\n§cSpeed Controller Module§r: Increases machine processing speed\n§cExecution Core Module§r: Adds additional running units to machine, enabling §9True Parallelism§r\n\n[warn]Only the §aExecution Core Module§r can be installed more than once[/warn]"
+      "lockedProgress:1": 0,
+      "name:8": "Large Neutron Oscillator",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
     }
   },
+  "questIDHigh:4": -484878555204664877,
+  "questIDLow:4": -8077549001810768009,
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
-      "partialMatch:1": 1,
       "autoConsume:1": 0,
+      "consume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
       "index:3": 0,
-      "consume:1": 0,
+      "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "gregtech:gt.blockmachines",
           "Count:3": 1,
           "Damage:2": 19055,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
         }
       },
       "taskID:8": "bq_standard:retrieval"
     }
-  },
-  "rewards:9": {}
+  }
 }

@@ -1,0 +1,55 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -4490734556169680910,
+      "questIDLow:4": -9112858004691880120
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "[quest]Integrated Assembly Matrix[/quest]\n\n[note]A better Assembly Line[/note]\n\nAll item inputs can be inserted into the same input bus.\n\nThis machine initially runs at [warn]75%[/warn] speed. This can be increased by using nanites.\nInserting §7256 Silver Nanites§f into the Nanite Containment Bus will run the machine at §c100%§f speed, while using §7§6256 Gold Nanites§f instead will run the machine at §c200%§f speed and double the amount of parallels.\n\nThe recipe tier is limited by the energy hatch tier as usual, and data sticks are still needed.",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 19079,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 1,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Integrated Assemly Matrix",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 5689385270519548915,
+  "questIDLow:4": -7134132026470555460,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 19079,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

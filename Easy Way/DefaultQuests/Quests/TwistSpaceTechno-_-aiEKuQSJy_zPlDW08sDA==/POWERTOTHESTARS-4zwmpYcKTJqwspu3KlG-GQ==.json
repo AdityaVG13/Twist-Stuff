@@ -1,5 +1,4 @@
 {
-  "questIDHigh:4": -2072739236120212326,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": -7949765678093284760,
@@ -10,50 +9,51 @@
       "questIDLow:4": -7457346031892336087
     }
   },
-  "questIDLow:4": -5714333766188417511,
   "properties:10": {
     "betterquesting:10": {
-      "snd_complete:8": "random.levelup",
-      "taskLogic:8": "AND",
-      "visibility:8": "NORMAL",
-      "isMain:1": 1,
-      "simultaneous:1": 0,
+      "autoClaim:1": 0,
+      "desc:8": "[quest]Artificial Star[/quest]\n\n§6Machine Type: §aDyson Sphere Program: Annihilation Generator§r\n\nActual Output Tower is affected by the §b3§r types of Tiered Blocks\n\n§9tTime§r \u003d Time Dilation Field Generator\n§9tDim§r \u003d Spacetime Compression Field Generator\n§9tStabilisation§r \u003d Stabilisation Field Generator\n\nHigher Tier increases the probability of recovering materials. \n\nContinuous Operation improves §9Power Generation§r\n\nOnly §c1§r Input Bus must be installed\n\nEnergy will output to Wireless EU directly\n\n§6 --- Details --- §r\n\nOutput Multiplier \u003d tTime^§c0.25§r * tDim^§c0.25§r * §c1.588186§r^(tStabilisation - §c2§r)\n\nActual Generating EU \u003d recipe value * output multiplier * reward for continuous operation\n\nRecovering Probability \u003d tTime * tDim * tStabilisation / §c1000§r\n\nAll input fuels will be consumed at once | Processing Time is §c6.4§r seconds, and will output the corresponding EU\n\nRewards Multiplier: §c1%§r increase per run per continuous operation | Maximum is §c150%§r \u0026 Minimum is §c100%§r if uncontinuous\n\n§6 --- Dyson Sphere Program --- §r\n\nLaunching Solar Sails increases §aSolar Sail§r amount in the Dyson Sphere. \nLaunching Small Launch Vehicle increases §aNode§r amount in the Dyson Sphere. \n\nDyson Sphere Energy Credit \u003d Solar Sail Output (default §c524,288§r) * Solar Sail Amount * (Node + §c1§r)^§c0.8§r\nEvery Node by default can absorb §c256§r Solar Sails.\n\nIf unabsorbed solar sails amount is \u003e §c2048§r, the excess may be destroyed.\n\nEvery §a30§r minutes has §c1§r/§c5000§r chance to decrease Solar Sail amount.\nWhile decreasing, every Dyson Sphere has §c1§r/§c4§r chance to destroy Solar Sails | The amount destroyed is §c1§r/§c2§r of the excess.\n\n[note]Use a §aScrewdriver§r to enable/disable the animation[/note]",
+      "globalShare:1": 0,
       "icon:10": {
-        "id:8": "gregtech:gt.blockmachines",
         "Count:3": 1,
         "Damage:2": 19015,
-        "OreDict:8": ""
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
       },
-      "snd_update:8": "random.levelup",
-      "repeatTime:3": -1,
-      "globalShare:1": 0,
-      "questLogic:8": "AND",
-      "repeat_relative:1": 1,
-      "name:8": "§9§lPOWER TO THE STARS",
-      "lockedProgress:1": 0,
-      "autoClaim:1": 0,
+      "isMain:1": 1,
       "isSilent:1": 0,
-      "desc:8": "[quest]Artificial Star[/quest]\n\n§6Machine Type: §aDyson Sphere Program: Annihilation Generator§r\n\nActual Output Tower is affected by the §b3§r types of Tiered Blocks\n\n§9tTime§r \u003d Time Dilation Field Generator\n§9tDim§r \u003d Spacetime Compression Field Generator\n§9tStabilisation§r \u003d Stabilisation Field Generator\n\nHigher Tier increases the probability of recovering materials. \n\nContinuous Operation improves §9Power Generation§r\n\nOnly §c1§r Input Bus must be installed\n\nEnergy will output to Wireless EU directly\n\n§6 --- Details --- §r\n\nOutput Multiplier \u003d tTime^§c0.25§r * tDim^§c0.25§r * §c1.588186§r^(tStabilisation - §c2§r)\n\nActual Generating EU \u003d recipe value * output multiplier * reward for continuous operation\n\nRecovering Probability \u003d tTime * tDim * tStabilisation / §c1000§r\n\nAll input fuels will be consumed at once | Processing Time is §c6.4§r seconds, and will output the corresponding EU\n\nRewards Multiplier: §c1%§r increase per run per continuous operation | Maximum is §c150%§r \u0026 Minimum is §c100%§r if uncontinuous\n\n§6 --- Dyson Sphere Program --- §r\n\nLaunching Solar Sails increases §aSolar Sail§r amount in the Dyson Sphere. \nLaunching Small Launch Vehicle increases §aNode§r amount in the Dyson Sphere. \n\nDyson Sphere Energy Credit \u003d Solar Sail Output (default §c524,288§r) * Solar Sail Amount * (Node + §c1§r)^§c0.8§r\nEvery Node by default can absorb §c256§r Solar Sails.\n\nIf unabsorbed solar sails amount is \u003e §c2048§r, the excess may be destroyed.\n\nEvery §a30§r minutes has §c1§r/§c5000§r chance to decrease Solar Sail amount.\nWhile decreasing, every Dyson Sphere has §c1§r/§c4§r chance to destroy Solar Sails | The amount destroyed is §c1§r/§c2§r of the excess.\n\n[note]Use a §aScrewdriver§r to enable/disable the animation[/note]"
+      "lockedProgress:1": 0,
+      "name:8": "§9§lPOWER TO THE STARS",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
     }
   },
+  "questIDHigh:4": -2072739236120212326,
+  "questIDLow:4": -5714333766188417511,
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
-      "partialMatch:1": 1,
       "autoConsume:1": 0,
+      "consume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
       "index:3": 0,
-      "consume:1": 0,
+      "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "gregtech:gt.blockmachines",
           "Count:3": 1,
           "Damage:2": 19015,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
         }
       },
       "taskID:8": "bq_standard:retrieval"
     }
-  },
-  "rewards:9": {}
+  }
 }

@@ -1,5 +1,4 @@
 {
-  "questIDHigh:4": -3523928732029663034,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
@@ -10,50 +9,51 @@
       "questIDLow:4": -5475211781941083416
     }
   },
-  "questIDLow:4": -4803387924960109628,
   "properties:10": {
     "betterquesting:10": {
-      "snd_complete:8": "random.levelup",
-      "taskLogic:8": "AND",
-      "visibility:8": "NORMAL",
-      "isMain:1": 0,
-      "simultaneous:1": 0,
+      "autoClaim:1": 0,
+      "desc:8": "[quest]Industrial Magic Matrix[/quest]\n\n§6Machine Type: §aMagic Matrix§r\n\nTwist\u0027s version of the Infusion Matrix from Thaumcraft. \n\n[warn]Use the Infusion Supplier to supply Essence[/warn]\n\n[note]The Industrial Magic Matrix is unable to perform active infusions[/note]\n\nParallelism depends on the level of the structure block.\n\nHas a §c4/2§r OC. You can turn on lossless overclocking after reaching the maximum acceleration rate. \n\n[note]Use Charged Nodes to get acceleration rewards[/note]\n\nIf the number of nodes is \u003c §a6§r, processing time will be recipe time * number of missing nodes * §c1.75§r\n\n§9There is more information on the ToolTip. Please refer to that for more information.§r\n\n[warn]This multi requires a lot of materials. Be sure to keep track of everything you need.[/warn]",
+      "globalShare:1": 0,
       "icon:10": {
-        "id:8": "gregtech:gt.blockmachines",
         "Count:3": 1,
         "Damage:2": 19047,
-        "OreDict:8": ""
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
       },
-      "snd_update:8": "random.levelup",
-      "repeatTime:3": -1,
-      "globalShare:1": 0,
-      "questLogic:8": "AND",
-      "repeat_relative:1": 1,
-      "name:8": "Industrial Magic Matrix",
-      "lockedProgress:1": 0,
-      "autoClaim:1": 0,
+      "isMain:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Industrial Magic Matrix[/quest]\n\n§6Machine Type: §aMagic Matrix§r\n\nTwist\u0027s version of the Infusion Matrix from Thaumcraft. \n\n[warn]Use the Infusion Supplier to supply Essence[/warn]\n\n[note]The Industrial Magic Matrix is unable to perform active infusions[/note]\n\nParallelism depends on the level of the structure block.\n\nHas a §c4/2§r OC. You can turn on lossless overclocking after reaching the maximum acceleration rate. \n\n[note]Use Charged Nodes to get acceleration rewards[/note]\n\nIf the number of nodes is \u003c §a6§r, processing time will be recipe time * number of missing nodes * §c1.75§r\n\n§9There is more information on the ToolTip. Please refer to that for more information.§r\n\n[warn]This multi requires a lot of materials. Be sure to keep track of everything you need.[/warn]"
+      "lockedProgress:1": 0,
+      "name:8": "Industrial Magic Matrix",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
     }
   },
+  "questIDHigh:4": -3523928732029663034,
+  "questIDLow:4": -4803387924960109628,
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
-      "partialMatch:1": 1,
       "autoConsume:1": 0,
+      "consume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
       "index:3": 0,
-      "consume:1": 0,
+      "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "gregtech:gt.blockmachines",
           "Count:3": 1,
           "Damage:2": 19047,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
         }
       },
       "taskID:8": "bq_standard:retrieval"
     }
-  },
-  "rewards:9": {}
+  }
 }
