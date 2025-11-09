@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Nether Interface[/quest]\n\n[note]Open a portal to the Nether and employ some unpaid internss to obtain important materials[/note]\n\nEvery cycle produces some important materials for the netherite line in exchange for some distilled water.\n\nMachine uses §a2A IV§f to maintain the portal and an additional §a1A IV§f for every parallel.",
+      "desc:8": "[quest]Nether Interface[/quest]\n\n[note]Open a portal to the Nether and employ some unpaid internss to obtain important materials[/note]\n\nEvery cycle produces some important materials for the netherite line in exchange for some distilled water.\n\nMachine uses §a2A IV§f to maintain the portal and an additional §a1A IV§f for every parallel.\n\n§dQuest was written by TheBigCheesish",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

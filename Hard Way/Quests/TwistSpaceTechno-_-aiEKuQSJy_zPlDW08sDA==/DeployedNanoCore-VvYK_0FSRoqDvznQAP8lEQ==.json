@@ -1,25 +1,25 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": -4490734556169680910,
-      "questIDLow:4": -9112858004691880120
+      "questIDHigh:4": 8710284108683232354,
+      "questIDLow:4": -7457346031892336087
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Integrated Assembly Matrix[/quest]\n\n[note]A better Assembly Line[/note]\n\nAll item inputs can be inserted into the same input bus.\n\nThis machine initially runs at [warn]75%[/warn] speed. This can be increased by using nanites.\nInserting §7256 Silver Nanites§f into the Nanite Containment Bus will run the machine at §c100%§f speed, while using §7§6256 Gold Nanites§f instead will run the machine at §c200%§f speed and double the amount of parallels.\n\nThe recipe tier is limited by the energy hatch tier as usual, and data sticks are still needed.\n\n§dQuest was written by TheBigCheesish",
+      "desc:8": "[quest]Deployed Nano Core[/quest]\n\n[note]The nanites hunger for more[/note]\n\n§6Machine type: §aNano Forge§f\n\nThis machine has perfect overclocks and infinite parallels.\n\nIt supports wireless power as well.\n\n§dQuest was written by TheBigCheesish",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 19079,
+        "Damage:2": 19038,
         "OreDict:8": "",
         "id:8": "gregtech:gt.blockmachines"
       },
       "isMain:1": 1,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Integrated Assembly Matrix",
+      "name:8": "Deployed Nano Core",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -30,8 +30,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 5689385270519548915,
-  "questIDLow:4": -7134132026470555460,
+  "questIDHigh:4": 6266208022961473162,
+  "questIDLow:4": -8953373968656554735,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -44,7 +44,7 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 19079,
+          "Damage:2": 19038,
           "OreDict:8": "",
           "id:8": "gregtech:gt.blockmachines"
         }
