@@ -64,11 +64,7 @@
           "Count:3": 36,
           "Damage:2": 2,
           "OreDict:8": "",
-          "id:8": "betterquesting:placeholder",
-          "tag:10": {
-            "orig_id:8": "dreamcraft:gt.blockcasingsNH",
-            "orig_meta:3": 2
-          }
+          "id:8": "gregtech:gt.blockcasingsNH"
         },
         "1:10": {
           "Count:3": 5,
