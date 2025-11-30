@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Basic Steam Generator[/quest]\n\n[note]A more efficient steam generator[/note]\n\nGets 40% more power out of your steam than a Basic Steam Turbine.\n\nYou can use either a regular LV Dynamo Hatch or a Buffered LV Dynamo Hatch. \n\n§dQuest was written by TheBigCheesish",
+      "desc:8": "[quest]Basic Steam Generator[/quest]\n\nMachine Type: §aSteam Generator§r\n\n[note]A more efficient Steam Generator[/note]\n\nGets §c40%§r more power out of your steam than a Basic Steam Turbine.\n\n§9Base Rate§r: §c1L§r of Steam \u003d §c0.7§r EU\n\nYou can use either a regular LV Dynamo Hatch or a Buffered LV Dynamo Hatch. \n\n§dQuest added by TheBigCheesish§r",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

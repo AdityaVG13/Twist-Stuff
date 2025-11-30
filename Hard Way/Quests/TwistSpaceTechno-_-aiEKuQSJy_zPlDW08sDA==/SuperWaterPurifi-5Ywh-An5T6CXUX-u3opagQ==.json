@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Super Water Purifier[/quest]\n\nEvery cycle, produces §c3§f §r(or §c6§f §rwhen using §cConcentrated UU-Matter§f§r) of the different water tiers or Stabilized Baryonic Matter chosen randomly. Each tier of water has a §c12%§e§f §rchance of being chosen, while Stabilized Baryonic Matter has a §c4%§f§r chance.\n\nThis machine has up to §9§b§92,000,000 parallels§f§r, with each parallel costing §a1A UMV§r§f.\n\n§dQuest was written by TheBigCheesish",
+      "desc:8": "[quest]Super Water Purifier[/quest]\n\nMachine Type: §aPerfect Water Creator§r\n\nEvery cycle, produces §c3§r (or §c6§r when using §cConcentrated UU-Matter§r) of the different water tiers or Stabilized Baryonic Matter chosen randomly.\n\nEach Water Grade has a §c12%§r chance of being produced.\nStabilized Baryonic Matter has a §c4%§r chance.\n\nThis machine has up to §92,000,000§r Parallels, with each parallel costing §a1A§r UMV.\n\n§dQuest added by TheBigCheesish§r",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

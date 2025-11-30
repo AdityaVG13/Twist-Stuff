@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Nether Interface[/quest]\n\n[note]Open a portal to the Nether and employ some unpaid internss to obtain important materials[/note]\n\nEvery cycle produces some important materials for the netherite line in exchange for some distilled water.\n\nMachine uses §a2A IV§f §rto maintain the portal and an additional §a1A IV§f §rfor every parallel.\n\n§dQuest was written by TheBigCheesish",
+      "desc:8": "[quest]Nether Interface[/quest]\n\n§6Machine Type:§r §aOtherworld Teleporter§r\n\n[note]Open a portal to the Nether and employ some unpaid internss to obtain important materials[/note]\n\nEvery cycle produces some important materials for the netherite line in exchange for some distilled water.\n\nMachine uses §a2A IV§f §rto maintain the portal and an additional §a1A IV§f §rfor every parallel.\n\n§dQuest added by TheBigCheesish",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

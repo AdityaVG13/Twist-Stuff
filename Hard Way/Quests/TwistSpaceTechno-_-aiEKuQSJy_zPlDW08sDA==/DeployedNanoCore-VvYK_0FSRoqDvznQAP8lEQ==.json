@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Deployed Nano Core[/quest]\n\n[note]The nanites hunger for more[/note]\n\n§6Machine type: §aNano Forge§f\n\n§rThis machine has perfect overclocks and infinite parallels.\n\nIt supports wireless power as well.\n\n§dQuest was written by TheBigCheesish",
+      "desc:8": "[quest]Deployed Nano Core[/quest]\n\n[note]The Nanites hunger for more[/note]\n\n§6Machine type:§r §aNano Forge§r\n\nThis machine has perfect overclocks and §9Infinite§r parallels.\n\nJoins the Wireless EU Network without placement of an Energy Hatch.\n\n§dQuest added by TheBigCheesish§r",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

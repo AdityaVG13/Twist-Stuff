@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Industrial Alchemy Tower[/quest]\n\n§6Machine Type: §aThaumatorium§r\n\nThe Twist version of the Thaumatorium",
+      "desc:8": "[quest]Industrial Alchemy Tower[/quest]\n\n§6Machine Type: §aThaumatorium§r\n\n§c2/4§r Overclock per Voltage Tier, starting at §aIV§r\n\nUses Infusion Provider for required Essentia\n\nMulti does between §c1-243§r parallels depending on which tier of Essentia Diffusion Cell you use for the casing (§c4§r tiers in total)\n\nFor optimal speeds, needs Stabilized Energized Nodes for the following aspects: §6Aer§r, §6Ignis§r, §6Ordo§r, §6Perditio§r.\n\nBest way to get them is to make a pure node using Essentia Shards with the following method:\n\nPlace an Essentia Shard next to a Vis Relay near your centivis setup.\n\nRight click Essentia Shard with Ethereal Essence for desired aspect. §c1§r Essence \u003d §c4§r of that aspect\n\nWhen you reach the desired amount of aspect (different for each aspect), jar the Shard in the same way you would jar a node.\n\nRelease jarred node onto one of the Tower\u0027s 4 Node Stabilizers and activate with a Redstone Block on top of the Node Transducer.\n\nGetting the amount of §c10§r for the final Stabilized note depends on which aspect.\n\n§6Aer§r \u003d §c140§r\n§6Ignis§r \u003d §c120§r\n§6Ordo§r \u003d §c140§r\n§6Perditio§r \u003d §c120§r\n\n§dQuest added by Vindrake§r",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

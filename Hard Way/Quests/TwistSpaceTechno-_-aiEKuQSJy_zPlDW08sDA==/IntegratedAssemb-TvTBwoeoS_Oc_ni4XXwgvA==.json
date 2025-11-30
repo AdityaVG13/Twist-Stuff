@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Integrated Assembly Matrix[/quest]\n\n[note]A better Assembly Line[/note]\n\nAll item inputs can be inserted into the same input bus.\n\nThis machine initially runs at [warn]75%[/warn] speed. This can be increased by using nanites.\nInserting §7§8§e§8§6§5§3§2§1§0§1§2§3§3§8§9§7§8§9§3256 Silver Nanites§f§r into the Nanite Containment Bus will run the machine at §c100%§f §rspeed, while using §7§6§3256 Gold Nanites§f§r instead will run the machine at §c200%§f§r speed and double the amount of parallels.\n\nThe recipe tier is limited by the energy hatch tier as usual, and data sticks are still needed.\n\n§dQuest was written by TheBigCheesish",
+      "desc:8": "[quest]Integrated Assembly Matrix[/quest]\n\nMachine Type: §aAssembly Line§r\n\nEnergy Hatch Tier §arestricts§r Voltage Tier\n\n[note]Data Sticks are still required[/note]\n\n[warn]Cost is §91.5x§r the base time[/warn]\n\nAll item inputs can be inserted into the same input bus.\n\nThis machine initially runs at §c75%§r speed. This can be increased by using nanites.\n\nInserting §a256§r §5Silver§r Nanites into the Nanite Containment Bus will run the machine at §c100%§r speed.\n\nInserting §a256§r §5Gold§r Nanites into the Nanite Containment Bus will run the machine at §c200%§r speed and §9double§r the parallels.\n\n§dQuest added by TheBigCheesish",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

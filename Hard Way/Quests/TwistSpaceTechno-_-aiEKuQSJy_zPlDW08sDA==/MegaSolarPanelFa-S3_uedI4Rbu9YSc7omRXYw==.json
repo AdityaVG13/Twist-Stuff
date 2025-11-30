@@ -1,25 +1,25 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": -231857371118812213,
-      "questIDLow:4": -5333711022391469539
+      "questIDHigh:4": -5711550860681592663,
+      "questIDLow:4": -9052113304602882128
     }
   },
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Universal Generator[/quest]\n\nMachine Type: §aUniversal Generator§r\n\n[note]Can work as either a Gas Turbine or a Combustion Generator.[/note] \n\nIt also burns the inputs at §c100%§r efficiency.\n\nChanging the structure in the back will change the mode:\n\n§6Horizontal Structure§r \u003d §bGas§r\n§6Vertical Structure§r \u003d §bFuel§r\n\n§dQuest added by TheBigCheesish§r",
+      "desc:8": "[quest]Mega Solar Panel Factory[/quest]\n\nMachine Type: §aSolar Factory§r\n\n§9PERFECT§r Overlocking. \n\nRecipe Time Multiplier \u003d §c100%§r / §bComponent Assembly Line Casing§r Tier",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 19074,
+        "Damage:2": 19080,
         "OreDict:8": "",
         "id:8": "gregtech:gt.blockmachines"
       },
-      "isMain:1": 0,
+      "isMain:1": 1,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Universal Generator",
+      "name:8": "Mega Solar Panel Factory",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -30,8 +30,8 @@
       "visibility:8": "NORMAL"
     }
   },
-  "questIDHigh:4": 3184804598335029591,
-  "questIDLow:4": -7310474589192266231,
+  "questIDHigh:4": 5440329081872205243,
+  "questIDLow:4": -4800512590719199389,
   "rewards:9": {},
   "tasks:9": {
     "0:10": {
@@ -44,7 +44,7 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 19074,
+          "Damage:2": 19080,
           "OreDict:8": "",
           "id:8": "gregtech:gt.blockmachines"
         }
