@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Concentrated UU-Matter[/quest]\n\nMaking Concentrated UU-Matter is fairly easy if a bit expensive.\n\nGo make some Axonis Alloy in your MABS, then fuse it with some Protomatter. Then take your fancy new Axonium and fuse it with a megaliter of UU-Matter, and presto you have 1 liter of Concetrated UU-Matter.\n\nIt is cheaper to use Axonium plasma instead, but you can figure out how to make that by now.\n\n§dQuest added by TheBigCheesish",
+      "desc:8": "[quest]Concentrated UU-Matter[/quest]\n\nMaking Concentrated UU-Matter is fairly easy but expensive.\n\nGo make some Axonis Alloy in your MABS, then fuse it with some Protomatter. Then take your fancy new Axonium and fuse it with a megaliter of UU-Matter, and presto you have §c1§r liter of Concentrated UU-Matter.\n\nIt is cheaper to use Axonium plasma instead, but you can figure out how to make that by now.\n\n§dQuest added by TheBigCheesish§r",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
