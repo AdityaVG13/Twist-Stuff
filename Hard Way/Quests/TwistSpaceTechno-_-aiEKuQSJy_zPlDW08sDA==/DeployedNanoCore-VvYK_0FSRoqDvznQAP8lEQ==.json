@@ -1,0 +1,55 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": 8710284108683232354,
+      "questIDLow:4": -7457346031892336087
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "[quest]Deployed Nano Core[/quest]\n\n[note]The nanites hunger for more[/note]\n\n§6Machine type: §aNano Forge§f\n\n§rThis machine has perfect overclocks and infinite parallels.\n\nIt supports wireless power as well.\n\n§dQuest was written by TheBigCheesish",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 19038,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 1,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Deployed Nano Core",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": 6266208022961473162,
+  "questIDLow:4": -8953373968656554735,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 19038,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

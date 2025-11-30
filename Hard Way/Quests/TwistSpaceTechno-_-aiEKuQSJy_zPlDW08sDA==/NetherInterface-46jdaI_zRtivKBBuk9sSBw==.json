@@ -1,0 +1,55 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -1079536349135418864,
+      "questIDLow:4": -7214948002287126684
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "[quest]Nether Interface[/quest]\n\n[note]Open a portal to the Nether and employ some unpaid internss to obtain important materials[/note]\n\nEvery cycle produces some important materials for the netherite line in exchange for some distilled water.\n\nMachine uses §a2A IV§f §rto maintain the portal and an additional §a1A IV§f §rfor every parallel.\n\n§dQuest was written by TheBigCheesish",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 19077,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 1,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Nether Interface",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -2042138989851097384,
+  "questIDLow:4": -5825388050890681849,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 19077,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

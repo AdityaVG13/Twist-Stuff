@@ -1,0 +1,55 @@
+{
+  "preRequisites:9": {
+    "0:10": {
+      "questIDHigh:4": -231857371118812213,
+      "questIDLow:4": -5333711022391469539
+    }
+  },
+  "properties:10": {
+    "betterquesting:10": {
+      "autoClaim:1": 0,
+      "desc:8": "[quest]Large Solar Boiler[/quest]\n\nDuring the day and with clear weather, the boiler will heat up at a rate of 0.1% per second. During the night and rain, the boiler will cool at a rate of 0.01% per second.\n\n[warn]Adding water to a dry boiler with a heat above 50% will cause it to explode![/warn]\n\nThe boiler needs a clear view of the sky in order to generate heat.\n\nThe bronze variant of the boiler generates §a4800L/s§r of steam at full heat, while upgrading to the steel variant will generate §a14400L/s§r of steam at full heat.\n\nAfter 24 hours, the boiler will begin to calcify. Max calcification will occur after 36 hours, and steam output will be reduced to §a33.33%§r. Calcification can be reset using the button in the GUI, and can be prevented by using distilled water.\n\n§dQuest was written by TheBigCheesish",
+      "globalShare:1": 0,
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 19076,
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
+      },
+      "isMain:1": 0,
+      "isSilent:1": 0,
+      "lockedProgress:1": 0,
+      "name:8": "Large Solar Boiler",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
+    }
+  },
+  "questIDHigh:4": -3198625678866431265,
+  "questIDLow:4": -8467748140179403836,
+  "rewards:9": {},
+  "tasks:9": {
+    "0:10": {
+      "autoConsume:1": 0,
+      "consume:1": 0,
+      "groupDetect:1": 0,
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "partialMatch:1": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 19076,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

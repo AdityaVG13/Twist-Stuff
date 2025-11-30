@@ -1,5 +1,4 @@
 {
-  "questIDHigh:4": 5771069686655897211,
   "preRequisites:9": {
     "0:10": {
       "questIDHigh:4": 0,
@@ -10,50 +9,51 @@
       "questIDLow:4": -5910974644180467067
     }
   },
-  "questIDLow:4": -5525488713604637486,
   "properties:10": {
     "betterquesting:10": {
-      "snd_complete:8": "random.levelup",
-      "taskLogic:8": "AND",
-      "visibility:8": "NORMAL",
-      "isMain:1": 0,
-      "simultaneous:1": 0,
+      "autoClaim:1": 0,
+      "desc:8": "[quest]Large Industrial Coking Factory [/quest]\n\n§6Machine Type: §aCoke Oven§r\n\nProcesses all inputs at once. \n\nHigher coil tier makes the machine run faster.\n\n------------------------------------------\n\nThe Large Industrial Coking Factory is an upgrade for the Industrial Coke Oven. \n\nYou’ll need:\n\n§c299§r Robust Tungstensteel Machine Casings\n§c275§r Tiered Coils \n§c32§r Heat Proof Coke Oven Casings\n§c243§r Steel Frame Boxes\n§c593§r Pyrolyse Oven Casings\n§c579§r Structural Coke Oven Casings\n§c275§r Black Steel Frame Boxes\n§c10§r Tungstensteel Pipe Casings\n§c10§r Tungstensteel Firebox Casings\nI/O ports and Energy Hatches.\n\n§dPortion written by Annie Penndragon",
+      "globalShare:1": 0,
       "icon:10": {
-        "id:8": "gregtech:gt.blockmachines",
         "Count:3": 1,
         "Damage:2": 19021,
-        "OreDict:8": ""
+        "OreDict:8": "",
+        "id:8": "gregtech:gt.blockmachines"
       },
-      "snd_update:8": "random.levelup",
-      "repeatTime:3": -1,
-      "globalShare:1": 0,
-      "questLogic:8": "AND",
-      "repeat_relative:1": 1,
-      "name:8": "Large Industrial Coking Factory",
-      "lockedProgress:1": 0,
-      "autoClaim:1": 0,
+      "isMain:1": 0,
       "isSilent:1": 0,
-      "desc:8": "[quest]Large Industrial Coking Factory [/quest]\n\n§6Machine Type: §aCoke Oven§r\n\nProcesses all inputs at once. \n\nHigher coil tier makes the machine run faster.\n\n------------------------------------------\n\nThe Large Industrial Coking Factory is an upgrade for the Industrial Coke Oven. \n\nYou’ll need:\n\n§c299§r Robust Tungstensteel Machine Casings\n§c275§r Tiered Coils \n§c32§r Heat Proof Coke Oven Casings\n§c243§r Steel Frame Boxes\n§c593§r Pyrolyse Oven Casings\n§c579§r Structural Coke Oven Casings\n§c275§r Black Steel Frame Boxes\n§c10§r Tungstensteel Pipe Casings\n§c10§r Tungstensteel Firebox Casings\nI/O ports and Energy Hatches.\n\n§dPortion written by Annie Penndragon"
+      "lockedProgress:1": 0,
+      "name:8": "Large Industrial Coking Factory",
+      "questLogic:8": "AND",
+      "repeatTime:3": -1,
+      "repeat_relative:1": 1,
+      "simultaneous:1": 0,
+      "snd_complete:8": "random.levelup",
+      "snd_update:8": "random.levelup",
+      "taskLogic:8": "AND",
+      "visibility:8": "NORMAL"
     }
   },
+  "questIDHigh:4": 5771069686655897211,
+  "questIDLow:4": -5525488713604637486,
+  "rewards:9": {},
   "tasks:9": {
     "0:10": {
-      "partialMatch:1": 1,
       "autoConsume:1": 0,
+      "consume:1": 0,
       "groupDetect:1": 0,
       "ignoreNBT:1": 1,
       "index:3": 0,
-      "consume:1": 0,
+      "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "id:8": "gregtech:gt.blockmachines",
           "Count:3": 1,
           "Damage:2": 19021,
-          "OreDict:8": ""
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockmachines"
         }
       },
       "taskID:8": "bq_standard:retrieval"
     }
-  },
-  "rewards:9": {}
+  }
 }
