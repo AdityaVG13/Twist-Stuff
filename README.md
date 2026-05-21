@@ -1,6 +1,8 @@
 # Twist-Stuff
 My Twist Space Repo - QBs &amp; Info
 
+Quests added by other contributors are noted in the quests itself. If there's no name, it was written by me :)
+
 Instructions for how to download the Twist Questbook
 
 To add it to your pack: 
