@@ -20,7 +20,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Space Apiray Module MK-I[/quest]\n\n§7§6Machine Type: §aBee Processing§r\n\nNeeds §nQueen§r Bee in Controller\n\nConsumes §c1A LuV §rper Parallel | Consumes §c100L§o§r Liquid DNA per Parallel per Run\n\nMax Parallels: §c256§r\n\n[note]Needs at least Space Elevator Motor MK-I to work. [/note]",
+      "desc:8": "[quest]Space Apiary Module MK-I[/quest]\n\n§7§6Machine Type: §aBee Processing§r\n\nNeeds §nQueen§r Bee in Controller\n\nConsumes §c1A LuV §rper Parallel | Consumes §c100L§o§r Liquid DNA per Parallel per Run\n\nMax Parallels: §c256§r\n\n[note]Needs at least Space Elevator Motor MK-I to work. [/note]",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]\"Mini\" Magnetic Mixer[/quest]\n\n§6Machine Type: §aMixer§r\n\nHas Parallel equivalent to §9Perfect Overclock\n\nAdditional §c20%§r time reduction per voltage tier\n\n----------------------------------------\n\nThe “Mini” Magnetic Mixer is a §919x19x21§r Multiblock, used as a direct upgrade to the Industrial Mixing  Machine. \n\nYou’ll need:\n\n§c645§r Radiant Naquadah Alloy Casings\n§c791§r Mining Neutronium Casings\n§c820§r Mining Black Plutonium Casings\n§c60§r Containment Field Casings\n§c36§r Volcanus Casings\nI/O Ports, a Maintenance Hatch and Energy Hatches\n\n§dPortion written by Annie Penndragon",
+      "desc:8": "[quest]\"Mini\" Magnetic Mixer[/quest]\n\n§6Machine Type: §aMixer§r\n\nHas Parallel equivalent to §9Perfect Overclock\n\nAdditional §c20%§r time reduction per voltage tier\n\n----------------------------------------\n\nThe “Mini” Magnetic Mixer is a §919x19x21§r Multiblock, used as a direct upgrade to the Industrial Mixing Machine. \n\nYou’ll need:\n\n§c645§r Radiant Naquadah Alloy Casings\n§c791§r Mining Neutronium Casings\n§c820§r Mining Black Plutonium Casings\n§c60§r Containment Field Casings\n§c36§r Volcanus Casings\nI/O Ports, a Maintenance Hatch and Energy Hatches\n\n§dPortion written by Annie Penndragon",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Molecule Deconstructor[/quest]\n\n§6Machine Type: §aElectrolyzer§r | §aCentrifuge§r\n\n§c24x§r Parallel per segment | §c16§r segments enables §9Perfect Overclock§r\n\nAdditional §c10%§r time reduction per voltage tier. \n\nThe Glass Tier §9limits§r the Voltage Tier. \n\n[note]Use a §aScrewdriver§r to change modes[/note]",
+      "desc:8": "[quest]Molecule Deconstructor[/quest]\n\n§6Machine Type: §aElectrolyzer§r | §aCentrifuge§r\n\n§c24x§r Parallel per segment | §c16§r segments enable §9Perfect Overclock§r\n\nAdditional §c10%§r time reduction per voltage tier. \n\nThe Glass Tier §9limits§r the Voltage Tier. \n\n[note]Use a §aScrewdriver§r to change modes[/note]",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
