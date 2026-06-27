@@ -20,7 +20,16 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "Congrats! You\u0027ve just made the hardest item in GTNH History, and have now joined an exclusive club! \n\n[note]Contact Aditya on discord to be added to this list for a future update!\n\nContact EvgenWarGold on discord to be added to the in-game tooltip[/note]\n\n§9-------§r §6Twist Token Club§r §9-------§r\n\n§71st§r: §5Aditya \u0026 Hive Run§r\n§72nd§r: §cHoroboros \u0026 Koneko§r\n§73rd§r: §bMonroth \u0026 HyperCreep§r\n§74th§r: §bTuna§r\n",
+      "completion_animation:8": "default",
+      "completion_particle:8": "default",
+      "confetti_icon:10": {
+        "Count:3": 0,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:stick"
+      },
+      "countAsQuest:1": 1,
+      "desc:8": "Congrats! You\u0027ve just made the hardest item in GTNH History, and have now joined an exclusive club! \n\n[note]Contact Aditya on discord to be added to this list for a future update!\n\nContact EvgenWarGold on discord to be added to the in-game tooltip[/note]\n\n§9-------§r §6Twist Token Club§r §9-------§r\n\n§71st§r: §5Aditya \u0026 Hive Run§r\n§72nd§r: §cHoroboros \u0026 Koneko§r\n§73rd§r: §bMonroth \u0026 HyperCreep§r\n§74th§r: §bTuna§r\n§75th§r: §aAdmiralGUMI \u0026 MAIM0 \u0026 LKOperan§r\n§76th§r: §eRandomPotato10 \u0026 Nebniloc_Ablazing\n§77th§r: §cKomart\n§78th§r: §6OrangeCreamsicle \u0026 ValueTown\n§79th§r: §bDune Run\n§710th§r: §bHuhmps \u0026 Josh_012\n§711th§r: §5CRIMSTAL \u0026 PIGEO\n§712th§r: §fMRSIB\n§713th§r: §5Thenextelement \u0026 Nathngo \u0026 Scooobygreenbelt\n§714th§r: §aMaekt\n§715th§r: §4FreekTeam\n§716th§r: §5Vindrake \u0026 CatsCozyGames\n§717th§r: §4Soul Eater\n§718th§r: §aRubigon\n§719th§r: §5Golter \u0026 MangusWtf\n§720th§r: §6FJXRichard",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -32,6 +41,21 @@
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "§5§lWHERE DREAMS... BECOME REALITY",
+      "notification_duration:5": -1.0,
+      "notification_effect:3": -1,
+      "notification_fade_in:5": -1.0,
+      "notification_fade_out:5": -1.0,
+      "notification_icon_offset_y:3": -2147483648,
+      "notification_icon_scale:5": -1.0,
+      "notification_pos_x:3": -2147483648,
+      "notification_pos_y:3": -2147483648,
+      "notification_show_icon:8": "default",
+      "notification_style:8": "default",
+      "notification_subtitle:8": "",
+      "notification_subtitle_scale:5": -1.0,
+      "notification_title:8": "",
+      "notification_title_scale:5": -1.0,
+      "particle_count:3": -1,
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -67,6 +91,7 @@
       "ignoreNBT:1": 1,
       "index:3": 0,
       "partialMatch:1": 1,
+      "requireOnlyOneItem:1": 0,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
