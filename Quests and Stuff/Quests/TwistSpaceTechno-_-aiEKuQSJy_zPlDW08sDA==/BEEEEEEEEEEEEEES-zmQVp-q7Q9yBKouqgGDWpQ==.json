@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Bee Engineer[/quest]\n\n§6Machine Type: §aBee Engineer\n\n§rTransforms drones into princess. \n\nCosts §c128kL§f§r Honey with a §c40%§f§r failing chance. \n\nIf provided with §c32kL§f§r of UUMatter, success rate increases to §c80%§f§r\n\n[warn]If the recipe fails, no ingredients will be returned[/warn]",
+      "desc:8": "[quest]Bee Engineer[/quest]\n\n§6Machine Type: §aBee Engineer\n\n§rTransforms drones into princess. \n\nCosts §c128kL§f§r Honey with a §c40%§f§r failure chance. \n\nIf provided with §c32kL§f§r of UUMatter, success rate increases to §c80%§f§r\n\n[warn]If the recipe fails, no ingredients will be returned[/warn]",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,

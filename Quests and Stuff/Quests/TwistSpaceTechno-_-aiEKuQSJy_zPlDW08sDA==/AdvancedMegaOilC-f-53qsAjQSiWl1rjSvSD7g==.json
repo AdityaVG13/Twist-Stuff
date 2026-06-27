@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "[quest]Advanced Mega Oil Cracker[/quest]\n\n§6Machine Type: §aOil Cracker\n\n§5§lFREEDOM§r\n\n[note]Perfect Overclock enabled with Eternal Coils[/note]",
+      "desc:8": "[quest]Advanced Mega Oil Cracker[/quest]\n\n§6Machine Type: §aOil Cracker§r\n\n§5§lFREEDOM§r\n\n[note]Perfect Overclock enabled with Eternal Coils[/note]",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
