@@ -12,6 +12,15 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
+      "completion_animation:8": "default",
+      "completion_particle:8": "default",
+      "confetti_icon:10": {
+        "Count:3": 0,
+        "Damage:2": 0,
+        "OreDict:8": "",
+        "id:8": "minecraft:stick"
+      },
+      "countAsQuest:1": 1,
       "desc:8": "[quest]Astral Computing Array[/quest]\n\n§6Machine Type: §aQuantum Computer§r\n\nThe Astral Computing Array needs to be cooled:\n\nCoolant: §c0.001§r\nSuper Coolant: §c0.01§r\n\nEach operation will consume all the liquid input in the input hatch. If you use multiple different options, a random one will be chosen. \n\nUsing a Twist Wireless Quantum Chip in the controller slot enables §9Wireless Mode§r. \n\n[warn]Do not put multiple Astral Computing Arrays on the same Wireless Frequency[/warn]\n\n[note]Uses §c4x§r Power Consumption[/note]",
       "globalShare:1": 0,
       "icon:10": {
@@ -24,6 +33,21 @@
       "isSilent:1": 0,
       "lockedProgress:1": 0,
       "name:8": "Astral Computing Array",
+      "notification_duration:5": -1.0,
+      "notification_effect:3": -1,
+      "notification_fade_in:5": -1.0,
+      "notification_fade_out:5": -1.0,
+      "notification_icon_offset_y:3": -2147483648,
+      "notification_icon_scale:5": -1.0,
+      "notification_pos_x:3": -2147483648,
+      "notification_pos_y:3": -2147483648,
+      "notification_show_icon:8": "default",
+      "notification_style:8": "default",
+      "notification_subtitle:8": "",
+      "notification_subtitle_scale:5": -1.0,
+      "notification_title:8": "",
+      "notification_title_scale:5": -1.0,
+      "particle_count:3": -1,
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -45,6 +69,7 @@
       "ignoreNBT:1": 1,
       "index:3": 0,
       "partialMatch:1": 1,
+      "requireOnlyOneItem:1": 0,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
